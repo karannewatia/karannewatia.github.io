@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in [Computer and Information Science](https://www.cis.upenn.edu/) at the University of Pennsylvania. I graduated with an M.Eng. and a B.A. (both in Computer Science) from Cornell University. I am from Guwahati, India.
+I am a second-year PhD student in [Computer and Information Science](https://www.cis.upenn.edu/) at the University of Pennsylvania. I graduated with an M.Eng. and a B.A. (both in [Computer Science](https://www.cs.cornell.edu/)) from Cornell University. I am from Guwahati, India.
 
 I am co-advised by [Andreas Haeberlen](https://haeberlen.cis.upenn.edu/) and [Linh Phan](https://www.cis.upenn.edu/~linhphan/).
 
