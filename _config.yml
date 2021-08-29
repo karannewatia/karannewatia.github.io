@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Karan Newatia"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computer Science PhD student at University of Pennsylvania"
   location         : "Philadelphia, PA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "knewatia@seas.upenn.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/karannewatia"
+  github           : "karannewatia"
   google_plus      :
   keybase          :
   instagram        :
@@ -107,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
