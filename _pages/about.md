@@ -17,9 +17,9 @@ I am from Guwahati, India.
 
 Publications
 ======
-Mycelium: Large-Scale Distributed Graph Queries with Differential Privacy.  
-Edo Roth, Karan Newatia, Yiping Ma, Ke Zhong, Sebastian Angel, and Andreas Haeberlen.  
-28th ACM Symposium on Operating Systems Principles (SOSP '21), Oct 2021.
+**Mycelium**: Large-Scale Distributed Graph Queries with Differential Privacy.  
+Edo Roth, **Karan Newatia**, Yiping Ma, Ke Zhong, Sebastian Angel, and Andreas Haeberlen.  
+28th ACM Symposium on Operating Systems Principles (**SOSP '21**), Oct 2021.
 
 Teaching
 ======
