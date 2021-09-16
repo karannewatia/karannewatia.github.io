@@ -15,10 +15,10 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "CV"
-    url: /files/CV.pdf
-  - title: "Resume"
+  - title: "Resume (1 page)"
     url: /files/resume.pdf
+  - title: "CV (2 pages)"
+    url: /files/CV.pdf
 
   # - title: "Guide"
   #   url: /markdown/
