@@ -23,9 +23,9 @@ Edo Roth, **Karan Newatia**, Yiping Ma, Ke Zhong, Sebastian Angel, and Andreas H
 
 Industry Experience
 ======
-Microsoft Research, Redmond - Research Intern (Summer '22) 
+Microsoft Research, Redmond - Research Intern (Summer '22)
 
-Teaching
+Teaching Experience
 ======
 CIS 502: Analysis of Algorithms - Teaching Assistant (Spring '22)
 
