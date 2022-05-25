@@ -15,8 +15,9 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Resume"
-    url: /files/resume_karan_newatia.pdf
+  # - title: "Resume"
+  #   url: /files/resume_karan_newatia.pdf
+
   # - title: "CV (2 pages)"
   #   url: /files/CV_karan_newatia.pdf
 

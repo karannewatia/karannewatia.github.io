@@ -23,16 +23,16 @@ Edo Roth, **Karan Newatia**, Yiping Ma, Ke Zhong, Sebastian Angel, and Andreas H
 
 Industry Experience
 ======
-Microsoft Research, Redmond - Research Intern (Summer '22)
+**Microsoft Research**, Redmond - Research Intern (Summer '22)
 
 Teaching Experience
 ======
-CIS 502: Analysis of Algorithms - Teaching Assistant (Spring '22)
+CIS 502: **Analysis of Algorithms** - Teaching Assistant (Spring '22)
 
-CIS 505: Software Systems - Teaching Assistant (Fall '21)
+CIS 505: **Software Systems** - Teaching Assistant (Fall '21)
 
 Service
 ======
-[EuroSys '22 AEC](https://sysartifacts.github.io/eurosys2022/)
+[EuroSys '22 Artifact Evaluation Committee](https://sysartifacts.github.io/eurosys2022/)
 
 Code Afrique (Jan '19)
