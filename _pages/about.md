@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in [Computer and Information Science](https://www.cis.upenn.edu/) at the University of Pennsylvania. I am co-advised by Profs. [Andreas Haeberlen](https://haeberlen.cis.upenn.edu/) and [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/). My research interests include distributed systems, system security, privacy, and applied cryptography. At Penn, I am a member of the [Distributed Systems Laboratory](https://dsl.cis.upenn.edu/) and the Security Research Laboratory.
+I am a third-year PhD student in [Computer and Information Science](https://www.cis.upenn.edu/) at the University of Pennsylvania. I am co-advised by Profs. [Andreas Haeberlen](https://haeberlen.cis.upenn.edu/) and [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/). My research interests include distributed systems, system security, privacy, and applied cryptography. At Penn, I am a member of the [Distributed Systems Laboratory](https://dsl.cis.upenn.edu/) and the Security Research Laboratory (https://splab.cis.upenn.edu/).
 
 I graduated with an M.Eng. and a B.A. (both in [Computer Science](https://www.cs.cornell.edu/)) from Cornell University, where I did research under the supervision of Profs. [Robbert van Renesse](https://www.cs.cornell.edu/home/rvr/), [Hakim Weatherspoon](https://www.cs.cornell.edu/~hweather/), and [Andrew Myers](https://www.cs.cornell.edu/andru/).
 
