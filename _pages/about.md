@@ -23,7 +23,7 @@ Arnd König, Yi Shan, **Karan Newatia**, Luke Marshall, and Vivek Narasayya.
 
 **Arboretum: A Planner for Large-Scale Federated Analytics with Differential Privacy**.
 Elizabeth Margolin<sup>\*</sup>, **Karan Newatia<sup>\*</sup>**, Edo Roth, Tao Luo, and Andreas Haeberlen.  
-Proceedings of the 29th ACM Symposium on Operating Systems Principles (**SOSP ’23**), October 2023.
+29th ACM Symposium on Operating Systems Principles (**SOSP ’23**), October 2023.
 
 **Mycelium: Large-Scale Distributed Graph Queries with Differential Privacy**.  
 Edo Roth, **Karan Newatia**, Yiping Ma, Ke Zhong, Sebastian Angel, and Andreas Haeberlen.  
