@@ -17,12 +17,12 @@ I am from Guwahati, India.
 
 Publications
 ======
-**Solver-In-The-Loop Cluster Resource Management for Database-as-a-Service**.
-Arnd König, Yi Shan, **Karan Newatia**, Luke Marshall, and Vivek Narasayya.
+**Solver-In-The-Loop Cluster Resource Management for Database-as-a-Service**.   
+Arnd König, Yi Shan, **Karan Newatia**, Luke Marshall, and Vivek Narasayya.     
 50th International Conference on Very Large Databases (**VLDB ’24**), August 2024.
 
 **Arboretum: A Planner for Large-Scale Federated Analytics with Differential Privacy**.
-Elizabeth Margolin, **Karan Newatia**, Edo Roth, Tao Luo, and Andreas Haeberlen.
+Elizabeth Margolin<sup>\*</sup>, **Karan Newatia<sup>\*</sup>**, Edo Roth, Tao Luo, and Andreas Haeberlen.  
 Proceedings of the 29th ACM Symposium on Operating Systems Principles (**SOSP ’23**), October 2023.
 
 **Mycelium: Large-Scale Distributed Graph Queries with Differential Privacy**.  
