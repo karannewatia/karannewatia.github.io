@@ -18,8 +18,8 @@ main:
   # - title: "Resume"
   #   url: /files/resume_karan_newatia.pdf
 
-  - title: "CV"
-    url: /files/CV_karan_newatia.pdf
+  # - title: "CV"
+  #   url: /files/CV_karan_newatia.pdf
 
   # - title: "Guide"
   #   url: /markdown/
