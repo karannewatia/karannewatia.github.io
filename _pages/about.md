@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a fourth-year PhD student in [Computer and Information Science](https://www.cis.upenn.edu/) at the University of Pennsylvania. I am co-advised by Prof. [Andreas Haeberlen](https://haeberlen.cis.upenn.edu/) and Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/).\
-My research interests include distributed systems, privacy, and applied cryptography.\
+My research interests include distributed systems, privacy, system security, and applied cryptography.\
 At Penn, I am a member of the [Distributed Systems Laboratory](https://dsl.cis.upenn.edu/) and the [Security Research Laboratory](https://splab.cis.upenn.edu/).
 
 I graduated with an M.Eng. and a B.A. (both in [Computer Science](https://www.cs.cornell.edu/)) from Cornell University,\
@@ -36,6 +36,8 @@ Edo Roth, **Karan Newatia**, Yiping Ma, Ke Zhong, Sebastian Angel, and Andreas H
 
 Industry Experience
 ======
+**Microsoft Research**, Cambridge - Research Intern (Summer '24)
+
 **Microsoft Research**, Redmond - Research Intern (Summer '23)
 
 **Microsoft Research**, Redmond - Research Intern (Summer '22)
@@ -47,8 +49,6 @@ CIS 5550: **Internet and Web Systems** - Guest Lecturer (Spring '23)
 CIS 5020: **Analysis of Algorithms** - Teaching Assistant (Spring '22)
 
 CIS 5050: **Software Systems** - Teaching Assistant (Fall '21)
-
-Code Afrique - Instructor (Jan '19)
 
 Service
 ======
