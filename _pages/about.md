@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student in [Computer and Information Science](https://www.cis.upenn.edu/) at the University of Pennsylvania. I am co-advised by Prof. [Andreas Haeberlen](https://haeberlen.cis.upenn.edu/) and Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/).\
+I am a fifth-year PhD student in [Computer and Information Science](https://www.cis.upenn.edu/) at the University of Pennsylvania. I am co-advised by Prof. [Andreas Haeberlen](https://haeberlen.cis.upenn.edu/) and Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/).\
 My research interests include distributed systems, privacy, system security, and applied cryptography. At Penn, I am a member of the [Distributed Systems Laboratory](https://dsl.cis.upenn.edu/) and the [Security Research Laboratory](https://splab.cis.upenn.edu/).
 
 I graduated with an M.Eng. and a B.A. (both in [Computer Science](https://www.cs.cornell.edu/)) from Cornell University,\
@@ -19,6 +19,10 @@ I am from Guwahati, India.
 
 Publications
 ======
+**Scribe: Low-memory SNARKs via Read-Write Streaming**.
+Anubhav Baweja, Pratyush Mishra, Tushar Mopuri, **Karan Newatia**, Steve Wang
+ePrint, December 2024.
+
 **Solver-In-The-Loop Cluster Resource Management for Database-as-a-Service**.   
 Arnd König, Yi Shan, **Karan Newatia**, Luke Marshall, and Vivek Narasayya.     
 50th International Conference on Very Large Databases (**VLDB '24**), August 2024.
@@ -35,11 +39,13 @@ Edo Roth, **Karan Newatia**, Yiping Ma, Ke Zhong, Sebastian Angel, and Andreas H
 
 Industry Experience
 ======
-**Microsoft Research**, Cambridge - Research Intern (Summer '24)
+**Meta**, Bellevue, WA - Incoming SWE Intern, Systems and Infrastructure (PhD) (Summer '25)
 
-**Microsoft Research**, Redmond - Research Intern (Summer '23)
+**Microsoft Research**, Cambridge, UK - Research Intern (Summer '24)
 
-**Microsoft Research**, Redmond - Research Intern (Summer '22)
+**Microsoft Research**, Redmond, WA - Research Intern (Summer '23)
+
+**Microsoft Research**, Redmond, WA - Research Intern (Summer '22)
 
 Teaching Experience
 ======
