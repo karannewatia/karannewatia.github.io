@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD student in [Computer and Information Science](https://www.cis.upenn.edu/) at the University of Pennsylvania. I am co-advised by Prof. [Andreas Haeberlen](https://haeberlen.cis.upenn.edu/) and Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/).\
+I am a final-year PhD student in [Computer and Information Science](https://www.cis.upenn.edu/) at the University of Pennsylvania. I am co-advised by Prof. [Andreas Haeberlen](https://haeberlen.cis.upenn.edu/) and Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/).\
 My research interests include distributed systems, privacy, and applied cryptography. At Penn,\
 I am a member of the [Distributed Systems Laboratory](https://dsl.cis.upenn.edu/) and the [Security Research Laboratory](https://splab.cis.upenn.edu/).
 
@@ -39,7 +39,7 @@ Edo Roth, **Karan Newatia**, Yiping Ma, Ke Zhong, Sebastian Angel, and Andreas H
 
 Industry Experience
 ======
-**Meta**, Bellevue, WA - Incoming PhD SWE Intern, Systems and Infrastructure (Summer '25)
+**Meta**, Bellevue, WA - PhD SWE Intern, Systems and Infrastructure (Summer '25)
 
 **Microsoft Research**, Cambridge, UK - Research Intern (Summer '24)
 
