@@ -85,7 +85,7 @@ author:
   bio              : "University of Pennsylvania"
   location         : "Philadelphia, PA"
   employer         :
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=jsmVIsMAAAAJ&hl=en&oi=ao"
   email            : "knewatia@seas.upenn.edu"
   uri              :
   bitbucket        :
