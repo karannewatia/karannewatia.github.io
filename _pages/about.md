@@ -12,7 +12,8 @@ I am a final-year PhD student in [Computer and Information Science](https://www.
 My research interests include distributed systems, databases, privacy, and applied cryptography. At Penn, I am a member of the [Distributed Systems Laboratory](https://dsl.cis.upenn.edu/) and the [Security Research Laboratory](https://splab.cis.upenn.edu/).
 
 I graduated with an M.Eng. and a B.A. (both in [Computer Science](https://www.cs.cornell.edu/)) from Cornell University,\
-where I did research under the supervision of Profs. [Robbert van Renesse](https://www.cs.cornell.edu/home/rvr/),\ [Hakim Weatherspoon](https://www.cs.cornell.edu/~hweather/), and [Andrew Myers](https://www.cs.cornell.edu/andru/).
+where I did research under the supervision of Profs. [Robbert van Renesse](https://www.cs.cornell.edu/home/rvr/),\
+[Hakim Weatherspoon](https://www.cs.cornell.edu/~hweather/), and [Andrew Myers](https://www.cs.cornell.edu/andru/).
 
 
 Publications
