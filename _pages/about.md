@@ -21,11 +21,11 @@ Publications
 ======
 **Scribe: Low-memory SNARKs via Read-Write Streaming**.   
 Anubhav Baweja, Pratyush Mishra, Tushar Mopuri, **Karan Newatia**, and Steve Wang.     
-35th USENIX Security Symposium (**USENIX Security '26**), August 2026
+35th USENIX Security Symposium (**USENIX Security '26**), August 2026.
 
 **Running Distributed Systems Like Clockwork**.   
 **Karan Newatia**, Qingjie Lu, and Andreas Haeberlen.      
-Conference on New Ideas in Networked Systems (**NINeS '26**), February 2026
+Conference on New Ideas in Networked Systems (**NINeS '26**), February 2026.
 
 **Solver-In-The-Loop Cluster Resource Management for Database-as-a-Service**.   
 Arnd König, Yi Shan, **Karan Newatia**, Luke Marshall, and Vivek Narasayya.     
