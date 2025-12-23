@@ -24,7 +24,7 @@ Anubhav Baweja, Pratyush Mishra, Tushar Mopuri, **Karan Newatia**, and Steve Wan
 35th USENIX Security Symposium (**USENIX Security '26**), August 2026.
 
 **Running Distributed Systems Like Clockwork**.   
-**Karan Newatia**, Qingjie Lu, and Andreas Haeberlen.      
+**Karan Newatia**, Robert Gifford, Qingjie Lu, Andreas Haeberlen, and Linh Thi Xuan Phan.      
 Conference on New Ideas in Networked Systems (**NINeS '26**), February 2026.
 
 **Solver-In-The-Loop Cluster Resource Management for Database-as-a-Service**.   
