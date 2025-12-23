@@ -9,17 +9,21 @@ redirect_from:
 ---
 
 I am a final-year PhD student in [Computer and Information Science](https://www.cis.upenn.edu/) at the University of Pennsylvania. I am co-advised by Prof. [Andreas Haeberlen](https://haeberlen.cis.upenn.edu/) and Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/).\
-My research interests include distributed systems, databases, privacy, and applied cryptography. \At Penn, I am a member of the [Distributed Systems Laboratory](https://dsl.cis.upenn.edu/) and the [Security Research Laboratory](https://splab.cis.upenn.edu/).
+My research interests include distributed systems, databases, privacy, and applied cryptography.\ At Penn, I am a member of the [Distributed Systems Laboratory](https://dsl.cis.upenn.edu/) and the [Security Research Laboratory](https://splab.cis.upenn.edu/).
 
 I graduated with an M.Eng. and a B.A. (both in [Computer Science](https://www.cs.cornell.edu/)) from Cornell University,\
-where I did research under the supervision of Profs. [Robbert van Renesse](https://www.cs.cornell.edu/home/rvr/), [Hakim Weatherspoon](https://www.cs.cornell.edu/~hweather/), and [Andrew Myers](https://www.cs.cornell.edu/andru/).
+where I did research under the supervision of Profs. [Robbert van Renesse](https://www.cs.cornell.edu/home/rvr/),\ [Hakim Weatherspoon](https://www.cs.cornell.edu/~hweather/), and [Andrew Myers](https://www.cs.cornell.edu/andru/).
 
 
 Publications
 ======
 **Scribe: Low-memory SNARKs via Read-Write Streaming**.   
-Anubhav Baweja, Pratyush Mishra, Tushar Mopuri, **Karan Newatia**, Steve Wang.     
+Anubhav Baweja, Pratyush Mishra, Tushar Mopuri, **Karan Newatia**, and Steve Wang.     
 35th USENIX Security Symposium (**USENIX Security '26**), August 2026
+
+**Running Distributed Systems Like Clockwork**.   
+**Karan Newatia**, Qingjie Lu, and Andreas Haeberlen.      
+Conference on New Ideas in Networked Systems (**NINeS '26**), February 2026
 
 **Solver-In-The-Loop Cluster Resource Management for Database-as-a-Service**.   
 Arnd König, Yi Shan, **Karan Newatia**, Luke Marshall, and Vivek Narasayya.     
