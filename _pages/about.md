@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD candidate in [Computer and Information Science](https://www.cis.upenn.edu/) at the University of Pennsylvania. I am co-advised by Prof. [Andreas Haeberlen](https://haeberlen.cis.upenn.edu/) and Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/).\
-My research interests include distributed systems, databases, privacy, and applied cryptography. At Penn, I am a member of the [Distributed Systems Laboratory](https://dsl.cis.upenn.edu/).
+I am a final-year Ph.D. candidate in computer science at the University of Pennsylvania, where I am co-advised by Prof. [Andreas Haeberlen](https://haeberlen.cis.upenn.edu/) and Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/). I am a member of the [Distributed Systems Laboratory](https://dsl.cis.upenn.edu/) at Penn.
 
-I graduated with an M.Eng. and a B.A. with honors (both in [Computer Science](https://www.cs.cornell.edu/)) from Cornell University,\
-where I did research under the supervision of Profs. [Robbert van Renesse](https://www.cs.cornell.edu/home/rvr/),\
-[Hakim Weatherspoon](https://www.cs.cornell.edu/~hweather/), and [Andrew Myers](https://www.cs.cornell.edu/andru/).
+My research interests include distributed systems, databases, privacy, and applied cryptography.
+
+Before joining Penn, I graduated from Cornell University with an M.Eng. and a B.A. with honors, both in computer science. At Cornell, I did research under the supervision of Prof. [Robbert van Renesse](https://www.cs.cornell.edu/home/rvr/), Prof. [Hakim Weatherspoon](https://www.cs.cornell.edu/~hweather/), and Prof. [Andrew Myers](https://www.cs.cornell.edu/andru/).
 
 
 Publications
